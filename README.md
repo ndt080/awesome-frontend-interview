@@ -3,14 +3,15 @@ The purpose of this repository is to make a list of basic questions for intervie
 They are considered as basic questions for assessing knowledge of **HTML**, **CSS**, **Javascript**, **Typescript** and **some popular JS frameworks**.
 
 # Overview
-- 📐 (Coming soon...) [Сreating web page markup]()
-- 🎨 (Coming soon...) [Styling of web pages]()
 - 🍆 [Javascript](./Javascript.md)
 - 🍍 [Typescript](./Typescript.md)
 - 💵 [React](./React.md)
+- 🗿 (Coming soon...) [Сreating web page markup]()
+- 🗿 (Coming soon...) [Styling of web pages]()
 - 🗿 (Coming soon...) [Vue](#Vue)
 - 🗿 (Coming soon...) [Angular](#Angular)
 - 🗿 (Coming soon...) [Solid.js](#Solid.js)
+- 🗿 (Coming soon...) [Web Components]()
 
 # Contribution
 If you notice errors and suggestions, create an Issue or Discussion
