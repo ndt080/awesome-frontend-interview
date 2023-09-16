@@ -12,6 +12,5 @@ They are considered as basic questions for assessing knowledge of **HTML**, **CS
 - 🗿 (Coming soon...) [Angular](#Angular)
 - 🗿 (Coming soon...) [Solid.js](#Solid.js)
 
-# Typescript 
-
-# React 
+# Contribution
+If you notice errors and suggestions, create an Issue or Discussion
