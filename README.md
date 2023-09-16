@@ -165,37 +165,49 @@ const result = value ?? "12"
   <summary>Answer</summary>
 </details>
 
-#### 14. How does inheritance work in Javascript? What is a prototype?
+### 14. What methods of working with an array do you know?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 15. Tell us about object property descriptors and flags
+### 15. What is the peculiarity of the sort and reverse methods?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 16. Tell us about Javascript classes, private and protected property methods
+#### 16. How does inheritance work in Javascript? What is a prototype?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 17. What is a promise and a chain of promises? Tell us about async/await
+#### 17. Tell us about object property descriptors and flags
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 18. What is a generator in Javascript?
+#### 18. Tell us about Javascript classes, private and protected property methods
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 19. Tell us about the loop event
+#### 19. What is a promise and a chain of promises? Tell us about async/await
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 20. What is a generator in Javascript?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 21. Tell us about the loop event
 
 `Task` In what order will the messages be displayed? Why?
 
@@ -230,37 +242,37 @@ setTimeout(() => console.log(8));
   Task: 2 - 7 - 3 - 5 - 6 - 8 - 1
 </details>
 
-#### 20. What is currying?
+#### 22. What is currying?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 21. What are polyfills? Why are they needed?
+#### 23. What are polyfills? Why are they needed?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 22. What are MutationObserver? Why are they needed?
+#### 24. What are MutationObserver? Why are they needed?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 23. What are ResizeObserver? Why are they needed?
+#### 25. What are ResizeObserver? Why are they needed?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 24. What is Event Bubbling in JavaScript?
+#### 26. What is Event Bubbling in JavaScript?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 25. What is the difference between localstorage, sessionStorage, cookie and IndexedDB
+#### 27. What is the difference between localstorage, sessionStorage, cookie and IndexedDB
 
 <details>
   <summary>Answer</summary>
