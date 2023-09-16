@@ -1,4 +1,4 @@
-# `Javascript`
+# `Javascript Interview Questions`
 
 #### 1. What types of variables exist in Javascript? What is the difference between them?
 
