@@ -29,9 +29,22 @@ They are considered as basic questions for assessing knowledge of **HTML**, **CS
 
 #### 4. Tell us about type conversion. How do I find out the data type?
 
-`Task` What is the result of this expression? Why?
+`Task` What is the result of this expressions? Why?
+
 ```js
 ("b" + "a" + + "a" + "a").toLowerCase()
+```
+
+```js 
+String({})
+```
+
+```js 
+String({ property: null })
+```
+
+```js 
+String(undefined)
 ```
 
 <details>
@@ -44,7 +57,7 @@ They are considered as basic questions for assessing knowledge of **HTML**, **CS
   <summary>Answer</summary>
 </details>
 
-#### 6. What conditional operators and null merge and assignment operators do you know? Why are they needed?
+#### 6. What conditional operators and null merge and assignment operators do you know? Why are they needed? What is an Optional Chain '?.'?
 
 <details>
   <summary>Answer</summary>
@@ -68,7 +81,12 @@ They are considered as basic questions for assessing knowledge of **HTML**, **CS
   <summary>Answer</summary>
 </details>
 
+#### 10. Tell us about Spread syntax
 
+<details>
+  <summary>Answer</summary>
+</details>
 
+#### 11. What is destructurization? Which entities can we destructurize?
 
 # Typescript 
