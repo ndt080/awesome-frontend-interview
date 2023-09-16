@@ -31,7 +31,7 @@ let result = 3
 
 <details>
   <summary>Answer</summary>
-  Task: ReferenceError - 12 - ReferenceError
+  Task: TypeError - 12 - TypeError
 </details>
 
 #### 3. What types of data exist in Javascript? What is the difference between them? Which data types are primitive and which are not?
