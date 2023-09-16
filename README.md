@@ -17,6 +17,27 @@ They are considered as basic questions for assessing knowledge of **HTML**, **CS
 
 #### 2. Why is using var a bad practice?
 
+`Task` What value will be assigned to the `result` variable
+
+```js
+result = 12
+const result = 3
+```
+
+`Task` What value will be assigned to the `result` variable
+
+```js
+result = 12
+var result = 3
+```
+
+`Task` What value will be assigned to the `result` variable
+
+```js
+result = 12
+let result = 3
+```
+
 <details>
   <summary>Answer</summary>
 </details>
