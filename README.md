@@ -5,5 +5,70 @@ They are considered as basic questions for assessing knowledge of **HTML**, **CS
 # Overview
 - 📐 [Сreating web page markup]()
 - 🎨 [Styling of web pages]()
-- 🍆 [Javascript]()
-- 🗿 [Typescript]()
+- 🍆 [Javascript](#Javascript)
+- 🗿 [Typescript](#Typescript)
+
+# Javascript 
+#### 1. What types of variables exist in Javascript? What is the difference between them?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 2. Why is using var a bad practice?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 3. What types of data exist in Javascript? What is the difference between them? Which data types are primitive and which are not?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 4. Tell us about type conversion. How do I find out the data type?
+
+`Task` What is the result of this expression? Why?
+```js
+("b" + "a" + + "a" + "a").toLowerCase()
+```
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+### 5. What is the lexical scope?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 6. What conditional operators and null merge and assignment operators do you know? Why are they needed?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 7. What types of functions do you know? What are arrow functions?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 8. What is hoisting?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 9. What is a closure ?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+
+
+
+# Typescript 
