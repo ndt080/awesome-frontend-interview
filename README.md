@@ -59,6 +59,38 @@ String(undefined)
 
 #### 6. What conditional operators and null merge and assignment operators do you know? Why are they needed? What is an Optional Chain '?.'?
 
+`Task` What value will be assigned to the `result` variable
+
+```js
+const value = null
+const result = value || 12
+```
+
+```js
+const value = null
+const result = value ?? 12
+```
+
+```js
+const value = 0
+const result = value || 12
+```
+
+```js
+const value = 0
+const result = value ?? 12
+```
+
+```js
+const value = ""
+const result = value || "12"
+```
+
+```js
+const value = ""
+const result = value ?? "12"
+```
+
 <details>
   <summary>Answer</summary>
 </details>
