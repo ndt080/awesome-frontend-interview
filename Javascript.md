@@ -152,13 +152,13 @@ const result = value ?? "12"
   <summary>Answer</summary>
 </details>
 
-### 14. What methods of working with an array do you know?
+#### 14. What methods of working with an array do you know?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-### 15. What is the peculiarity of the sort and reverse methods?
+#### 15. What is the peculiarity of the sort and reverse methods?
 
 <details>
   <summary>Answer</summary>
