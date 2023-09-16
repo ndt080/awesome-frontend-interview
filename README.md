@@ -278,4 +278,10 @@ setTimeout(() => console.log(8));
   <summary>Answer</summary>
 </details>
 
+#### 28. What is the difference between async and defer when loading scripts?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
 # Typescript 
