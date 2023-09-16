@@ -142,4 +142,44 @@ const result = value ?? "12"
 
 #### 11. What is destructurization? Which entities can we destructurize?
 
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 12. How do I copy an object? How to do deep copying?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 13. What is context? What are call/apply/bind for? what is their difference?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 14. How does inheritance work in Javascript? What is a prototype?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 15. Tell us about object property descriptors and flags
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 16. Tell us about Javascript classes, private and protected property methods
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 17. What is a promise and a chain of promises? Tell us about async/await
+
+<details>
+  <summary>Answer</summary>
+</details>
+
 # Typescript 
