@@ -72,7 +72,7 @@ String(undefined)
   <summary>Answer</summary>
 </details>
 
-### 5. What is the lexical scope?
+#### 5. What is the lexical scope?
 
 <details>
   <summary>Answer</summary>
@@ -180,6 +180,53 @@ const result = value ?? "12"
 
 <details>
   <summary>Answer</summary>
+</details>
+
+#### 18. What is a generator in Javascript?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 18. What is a generator in Javascript?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 19. Tell us about the loop event
+
+`Task` In what order will the messages be displayed? Why?
+
+```js
+setTimeout(() => console.log(1), 100);
+
+new Promise((resolve) => {
+  console.log(2);
+  resolve();
+})
+  .then(() => {
+    console.log(3);
+    throw new Error();
+  })
+  .then(() => {
+    console.log(4);
+  })
+  .catch(() => {
+    console.log(5);
+  })
+  .then(() => {
+    console.log(6);
+  });
+
+console.log(7);
+
+setTimeout(() => console.log(8));
+```
+
+<details>
+  <summary>Answer</summary>
+  2 - 7 - 3 - 5 - 6 - 8 - 1
 </details>
 
 # Typescript 
