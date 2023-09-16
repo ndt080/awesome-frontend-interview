@@ -3,10 +3,14 @@ The purpose of this repository is to make a list of basic questions for intervie
 They are considered as basic questions for assessing knowledge of **HTML**, **CSS**, **Javascript**, **Typescript** and **some popular JS frameworks**.
 
 # Overview
-- 📐 [Сreating web page markup]()
-- 🎨 [Styling of web pages]()
+- 📐 (Coming soon...) [Сreating web page markup]()
+- 🎨 (Coming soon...) [Styling of web pages]()
 - 🍆 [Javascript](#Javascript)
 - 🗿 [Typescript](#Typescript)
+- 🗿 (Coming soon...) [React](#React)
+- 🗿 (Coming soon...) [Vue](#Vue)
+- 🗿 (Coming soon...) [Angular](#Angular)
+- 🗿 (Coming soon...) [Solid.js](#Solid.js)
 
 # Javascript 
 #### 1. What types of variables exist in Javascript? What is the difference between them?
