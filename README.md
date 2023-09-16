@@ -195,12 +195,6 @@ const result = value ?? "12"
   <summary>Answer</summary>
 </details>
 
-#### 18. What is a generator in Javascript?
-
-<details>
-  <summary>Answer</summary>
-</details>
-
 #### 19. Tell us about the loop event
 
 `Task` In what order will the messages be displayed? Why?
@@ -234,6 +228,42 @@ setTimeout(() => console.log(8));
 <details>
   <summary>Answer</summary>
   Task: 2 - 7 - 3 - 5 - 6 - 8 - 1
+</details>
+
+#### 20. What is currying?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 21. What are polyfills? Why are they needed?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 22. What are MutationObserver? Why are they needed?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 23. What are ResizeObserver? Why are they needed?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 24. What is Event Bubbling in JavaScript?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 25. What is the difference between localstorage, sessionStorage, cookie and IndexedDB
+
+<details>
+  <summary>Answer</summary>
 </details>
 
 # Typescript 
