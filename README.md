@@ -7,7 +7,7 @@ They are considered as basic questions for assessing knowledge of **HTML**, **CS
 - 🎨 (Coming soon...) [Styling of web pages]()
 - 🍆 [Javascript](#Javascript)
 - 🗿 [Typescript](#Typescript)
-- 🗿 (Coming soon...) [React](#React)
+- 🗿 [React](#React)
 - 🗿 (Coming soon...) [Vue](#Vue)
 - 🗿 (Coming soon...) [Angular](#Angular)
 - 🗿 (Coming soon...) [Solid.js](#Solid.js)
@@ -285,3 +285,5 @@ setTimeout(() => console.log(8));
 </details>
 
 # Typescript 
+
+# React 
