@@ -44,6 +44,7 @@ let result = 3
 
 <details>
   <summary>Answer</summary>
+  Task: ReferenceError - 12 - ReferenceError
 </details>
 
 #### 3. What types of data exist in Javascript? What is the difference between them? Which data types are primitive and which are not?
@@ -74,6 +75,7 @@ String(undefined)
 
 <details>
   <summary>Answer</summary>
+    Task: "banana" - [object Object] - [object Object] - "undefined"
 </details>
 
 #### 5. What is the lexical scope?
@@ -118,6 +120,7 @@ const result = value ?? "12"
 
 <details>
   <summary>Answer</summary>
+  Task: 12 - 12 | 12 - 0 | "12" - ""
 </details>
 
 #### 7. What types of functions do you know? What are arrow functions?
@@ -230,7 +233,7 @@ setTimeout(() => console.log(8));
 
 <details>
   <summary>Answer</summary>
-  2 - 7 - 3 - 5 - 6 - 8 - 1
+  Task: 2 - 7 - 3 - 5 - 6 - 8 - 1
 </details>
 
 # Typescript 
