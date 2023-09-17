@@ -1,6 +1,6 @@
 # `Javascript Interview Questions`
 
-#### 1. What types of variables exist in Javascript? What is the difference between them?
+##### 1. What types of variables exist in Javascript? What is the difference between them?
 
 <details>
   <summary>Answer</summary>
@@ -11,7 +11,7 @@
   </ul>
 </details>
 
-#### 2. Why is using var a bad practice?
+##### 2. Why is using var a bad practice?
 
 `Task` What value will be assigned to the `result` variable
 
@@ -37,7 +37,7 @@ let result = 3
   <b>Task:</b> ReferenceError + TypeError - 12 - ReferenceError
 </details>
 
-#### 3. What types of data exist in Javascript? What is the difference between them? Which data types are primitive and which are not?
+##### 3. What types of data exist in Javascript? What is the difference between them? Which data types are primitive and which are not?
 
 <details>
   <summary>Answer</summary>
@@ -66,7 +66,7 @@ let result = 3
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures</a>
 </details>
 
-#### 4. Tell us about type conversion. How do I find out the data type?
+##### 4. Tell us about type conversion. How do I find out the data type?
 
 `Task` What is the result of this expressions? Why?
 
@@ -91,7 +91,7 @@ String(undefined)
     Task: "banana" - [object Object] - [object Object] - "undefined"
 </details>
 
-#### 5. What conditional operators and null merge and assignment operators do you know? Why are they needed? What is an Optional Chain '?.'?
+##### 5. What conditional operators and null merge and assignment operators do you know? Why are they needed? What is an Optional Chain '?.'?
 
 `Task` What value will be assigned to the `result` variable
 
@@ -130,103 +130,103 @@ const result = value ?? "12"
   Task: 12 - 12 | 12 - 0 | "12" - ""
 </details>
 
-#### 6. What is the lexical scope? Function-scope vs block-scope?
+##### 6. What is the lexical scope? Function-scope vs block-scope?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 7. What types of functions do you know? What are arrow functions?
+##### 7. What types of functions do you know? What are arrow functions?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 8. What is hoisting?
+##### 8. What is hoisting?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 9. What is a closure?
+##### 9. What is a closure?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 10. What is currying?
+##### 10. What is currying?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 11. What is context? What are call/apply/bind for? what is their difference?
+##### 11. What is context? What are call/apply/bind for? what is their difference?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 12. Tell us about Spread syntax
+##### 12. Tell us about Spread syntax
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 13. What is destructurization? Which entities can we destructurize?
+##### 13. What is destructurization? Which entities can we destructurize?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 14. How do I copy an object? How to do deep copying?
+##### 14. How do I copy an object? How to do deep copying?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 15. What methods of working with an array do you know?
+##### 15. What methods of working with an array do you know?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 16. What is the peculiarity of the sort and reverse methods?
+##### 16. What is the peculiarity of the sort and reverse methods?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 17. How does inheritance work in Javascript? What is a prototype?
+##### 17. How does inheritance work in Javascript? What is a prototype?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 18. Tell us about object property descriptors and flags
+##### 18. Tell us about object property descriptors and flags
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 19. Tell us about Javascript classes, private and protected property methods
+##### 19. Tell us about Javascript classes, private and protected property methods
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 20. What is a generator in Javascript?
+##### 20. What is a generator in Javascript?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 21. What do you know about asynchrony in Javascript? What is a promise and a chain of promises? Tell us about async/await
+##### 21. What do you know about asynchrony in Javascript? What is a promise and a chain of promises? Tell us about async/await
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 22. What is the difference between a reference type and a primitive in terms of storage in memory?
+##### 22. What is the difference between a reference type and a primitive in terms of storage in memory?
 
 <details>
   <summary>Answer</summary>
@@ -235,7 +235,7 @@ const result = value ?? "12"
   <img src="https://habrastorage.org/getpro/habr/post_images/f4f/806/f07/f4f806f0711516ff9175f1245948af72.png" />
 </details>
 
-#### 23. How the garbage collector works in Javascript?
+##### 23. How the garbage collector works in Javascript?
 
 <details>
   <summary>Answer</summary>
@@ -244,7 +244,7 @@ Memory management in JavaScript is performed automatically. In order for the gar
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management</a>
 </details>
 
-#### 24. Tell us about the loop event
+##### 24. Tell us about the loop event
 
 `Task` In what order will the messages be displayed? Why?
 
@@ -279,37 +279,37 @@ setTimeout(() => console.log(8));
   Task: 2 - 7 - 3 - 5 - 6 - 8 - 1
 </details>
 
-#### 25. What are polyfills? Why are they needed?
+##### 25. What are polyfills? Why are they needed?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 26. What are MutationObserver? Why are they needed?
+##### 26. What are MutationObserver? Why are they needed?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 27. What are ResizeObserver? Why are they needed?
+##### 27. What are ResizeObserver? Why are they needed?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 28. What is Event Bubbling in JavaScript?
+##### 28. What is Event Bubbling in JavaScript?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 29. What is the difference between localstorage, sessionStorage, cookie and IndexedDB
+##### 29. What is the difference between localstorage, sessionStorage, cookie and IndexedDB
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 30. What is the difference between async and defer when loading scripts?
+##### 30. What is the difference between async and defer when loading scripts?
 
 <details>
   <summary>Answer</summary>
