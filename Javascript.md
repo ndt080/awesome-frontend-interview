@@ -219,7 +219,25 @@ const result = value ?? "12"
   <summary>Answer</summary>
 </details>
 
-#### 21. Tell us about the loop event
+#### 21. What is the difference between a reference type and a primitive in terms of storage in memory?
+
+<details>
+  <summary>Answer</summary>
+  Primitive values and references to objects are stored on the stack, and the object itself is stored on the heap
+
+  <img src="https://habrastorage.org/getpro/habr/post_images/f4f/806/f07/f4f806f0711516ff9175f1245948af72.png" />
+</details>
+
+#### 22. How the garbage collector works in Javascript?
+
+<details>
+  <summary>Answer</summary>
+Memory management in JavaScript is performed automatically. In order for the garbage collector to delete an object and free up memory, the object must become unreachable (there are no references to it)
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management</a>
+</details>
+
+#### 23. Tell us about the loop event
 
 `Task` In what order will the messages be displayed? Why?
 
@@ -254,43 +272,43 @@ setTimeout(() => console.log(8));
   Task: 2 - 7 - 3 - 5 - 6 - 8 - 1
 </details>
 
-#### 22. What is currying?
+#### 24. What is currying?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 23. What are polyfills? Why are they needed?
+#### 25. What are polyfills? Why are they needed?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 24. What are MutationObserver? Why are they needed?
+#### 26. What are MutationObserver? Why are they needed?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 25. What are ResizeObserver? Why are they needed?
+#### 27. What are ResizeObserver? Why are they needed?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 26. What is Event Bubbling in JavaScript?
+#### 28. What is Event Bubbling in JavaScript?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 27. What is the difference between localstorage, sessionStorage, cookie and IndexedDB
+#### 29. What is the difference between localstorage, sessionStorage, cookie and IndexedDB
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 28. What is the difference between async and defer when loading scripts?
+#### 30. What is the difference between async and defer when loading scripts?
 
 <details>
   <summary>Answer</summary>
