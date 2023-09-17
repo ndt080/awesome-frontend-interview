@@ -41,6 +41,28 @@ let result = 3
 
 <details>
   <summary>Answer</summary>
+
+  <h6>Primitive types</h6>
+  <ul>
+    <li><b>number</b> - numeric data type. Has special values Infinity, -Infinity and Nan (computational error)</li>
+    <li><b>string</b> - data type for storing a set of characters (or character)</li>
+    <li><b>boolean</b> - logical data type. Can be true/false </li>
+    <li><b>symbol</b> - </li>
+    <li><b>bigInt</b> - numeric data type for working with large numbers ( > 2<sup>53</sup>-1 and < -(2<sup>53</sup>-1))</li>
+  </ul>
+
+  <h6>Non-primitive types</h6>
+  <ul>
+    <li><b>object</b> - Reference data type. In Javascript, functions are also objects, but sometimes they are put into a separate data type.</li>
+  </ul>
+
+
+  <h6>Special values</h6>
+  <ul>
+    <li><b>null</b> - a special value that represents "nothing", "empty" or "value unknown" </li>
+    <li><b>undefined</b> - a special value that represents "no value has been assigned"</li>
+  </ul>
+  
 </details>
 
 #### 4. Tell us about type conversion. How do I find out the data type?
