@@ -214,13 +214,13 @@ const result = value ?? "12"
   <summary>Answer</summary>
 </details>
 
-#### 20. What is a promise and a chain of promises? Tell us about async/await
+#### 20. What is a generator in Javascript?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 21. What is a generator in Javascript?
+#### 21. What do you know about asynchrony in Javascript? What is a promise and a chain of promises? Tell us about async/await
 
 <details>
   <summary>Answer</summary>
