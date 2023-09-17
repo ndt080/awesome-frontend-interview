@@ -155,7 +155,11 @@ const result = value ?? "12"
 </details>
 
 ##### 10. What is currying?
+`Task` You need to write a function for which the following is true
 
+```js 
+calc(1)(2)(3)() === 6
+```
 <details>
   <summary>Answer</summary>
 </details>
