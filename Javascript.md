@@ -91,13 +91,7 @@ String(undefined)
     Task: "banana" - [object Object] - [object Object] - "undefined"
 </details>
 
-#### 5. What is the lexical scope? Function-scope vs block-scope?
-
-<details>
-  <summary>Answer</summary>
-</details>
-
-#### 6. What conditional operators and null merge and assignment operators do you know? Why are they needed? What is an Optional Chain '?.'?
+#### 5. What conditional operators and null merge and assignment operators do you know? Why are they needed? What is an Optional Chain '?.'?
 
 `Task` What value will be assigned to the `result` variable
 
@@ -136,6 +130,12 @@ const result = value ?? "12"
   Task: 12 - 12 | 12 - 0 | "12" - ""
 </details>
 
+#### 6. What is the lexical scope? Function-scope vs block-scope?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
 #### 7. What types of functions do you know? What are arrow functions?
 
 <details>
@@ -154,73 +154,79 @@ const result = value ?? "12"
   <summary>Answer</summary>
 </details>
 
-#### 10. Tell us about Spread syntax
+#### 10. What is currying?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 11. What is destructurization? Which entities can we destructurize?
+#### 11. What is context? What are call/apply/bind for? what is their difference?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 12. How do I copy an object? How to do deep copying?
+#### 12. Tell us about Spread syntax
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 13. What is context? What are call/apply/bind for? what is their difference?
+#### 13. What is destructurization? Which entities can we destructurize?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 14. What methods of working with an array do you know?
+#### 14. How do I copy an object? How to do deep copying?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 15. What is the peculiarity of the sort and reverse methods?
+#### 15. What methods of working with an array do you know?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 16. How does inheritance work in Javascript? What is a prototype?
+#### 16. What is the peculiarity of the sort and reverse methods?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 17. Tell us about object property descriptors and flags
+#### 17. How does inheritance work in Javascript? What is a prototype?
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 18. Tell us about Javascript classes, private and protected property methods
+#### 18. Tell us about object property descriptors and flags
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 19. What is a promise and a chain of promises? Tell us about async/await
+#### 19. Tell us about Javascript classes, private and protected property methods
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 20. What is a generator in Javascript?
+#### 20. What is a promise and a chain of promises? Tell us about async/await
 
 <details>
   <summary>Answer</summary>
 </details>
 
-#### 21. What is the difference between a reference type and a primitive in terms of storage in memory?
+#### 21. What is a generator in Javascript?
+
+<details>
+  <summary>Answer</summary>
+</details>
+
+#### 22. What is the difference between a reference type and a primitive in terms of storage in memory?
 
 <details>
   <summary>Answer</summary>
@@ -229,7 +235,7 @@ const result = value ?? "12"
   <img src="https://habrastorage.org/getpro/habr/post_images/f4f/806/f07/f4f806f0711516ff9175f1245948af72.png" />
 </details>
 
-#### 22. How the garbage collector works in Javascript?
+#### 23. How the garbage collector works in Javascript?
 
 <details>
   <summary>Answer</summary>
@@ -238,7 +244,7 @@ Memory management in JavaScript is performed automatically. In order for the gar
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management</a>
 </details>
 
-#### 23. Tell us about the loop event
+#### 24. Tell us about the loop event
 
 `Task` In what order will the messages be displayed? Why?
 
@@ -271,12 +277,6 @@ setTimeout(() => console.log(8));
 <details>
   <summary>Answer</summary>
   Task: 2 - 7 - 3 - 5 - 6 - 8 - 1
-</details>
-
-#### 24. What is currying?
-
-<details>
-  <summary>Answer</summary>
 </details>
 
 #### 25. What are polyfills? Why are they needed?
