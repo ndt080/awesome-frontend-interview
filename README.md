@@ -4,8 +4,8 @@ They are considered as basic questions for assessing knowledge of **HTML**, **CS
 
 # Overview
 - 🍆 [Javascript](./Javascript.md)
-- 🍍 [Typescript](./Typescript.md)
 - 💵 [React](./React.md)
+- 🗿 (Coming soon...) [Typescript](./Typescript.md)
 - 🗿 (Coming soon...) [Сreating web page markup]()
 - 🗿 (Coming soon...) [Styling of web pages]()
 - 🗿 (Coming soon...) [Vue](#Vue)
