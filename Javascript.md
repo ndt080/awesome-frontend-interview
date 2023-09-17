@@ -62,7 +62,8 @@ let result = 3
     <li><b>null</b> - a special value that represents "nothing", "empty" or "value unknown" </li>
     <li><b>undefined</b> - a special value that represents "no value has been assigned"</li>
   </ul>
-  
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures</a>
 </details>
 
 #### 4. Tell us about type conversion. How do I find out the data type?
