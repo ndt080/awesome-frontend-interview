@@ -4,6 +4,11 @@
 
 <details>
   <summary>Answer</summary>
+  <ul>
+    <li><b>let</b> - sets a variable whose value can be changed.</li>
+    <li><b>const</b> - sets a variable with a constant value (a primitive value or a reference to an object cannot be changed).</li>
+    <li><b>var</b> - sets a value similar to let, but the variable ignores scope and has a global scope. Using var is not recommended and is a bad practice. </li>
+  </ul>
 </details>
 
 #### 2. Why is using var a bad practice?
@@ -15,14 +20,10 @@ result = 12
 const result = 3
 ```
 
-`Task` What value will be assigned to the `result` variable
-
 ```js
 result = 12
 var result = 3
 ```
-
-`Task` What value will be assigned to the `result` variable
 
 ```js
 result = 12
@@ -31,7 +32,9 @@ let result = 3
 
 <details>
   <summary>Answer</summary>
-  Task: ReferenceError + TypeError - 12 - ReferenceError
+  Var has a global scope, ignoring the block one, and is subject to hoisting, which leads to a difficult controlled logic
+  
+  <b>Task:</b> ReferenceError + TypeError - 12 - ReferenceError
 </details>
 
 #### 3. What types of data exist in Javascript? What is the difference between them? Which data types are primitive and which are not?
