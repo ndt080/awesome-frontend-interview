@@ -91,7 +91,7 @@ String(undefined)
     Task: "banana" - [object Object] - [object Object] - "undefined"
 </details>
 
-#### 5. What is the lexical scope?
+#### 5. What is the lexical scope? Function-scope vs block-scope?
 
 <details>
   <summary>Answer</summary>
@@ -148,7 +148,7 @@ const result = value ?? "12"
   <summary>Answer</summary>
 </details>
 
-#### 9. What is a closure ?
+#### 9. What is a closure?
 
 <details>
   <summary>Answer</summary>
